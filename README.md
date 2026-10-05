@@ -1,6 +1,4 @@
-# John Paul (0xharuwndr)
-
-**Software & Systems Developer | Information Technology / Computer Engineering**
+**BSIT Student & Aspiring Software Developer**
 
 [GitHub](https://github.0xharuwndr) • [Portfolio](https://github.com/0xharuwndr)
 
@@ -18,7 +16,7 @@ Results-driven developer with a strong foundation in **Software Engineering**, *
 | :--- | :--- |
 | **Languages** | Java, C#, Python, C++ |
 | **Frameworks & Platforms** | .NET Core, Java SE, Node.js |
-| **Developer Tools** | Git, GitHub, VS Code, IntelliJ IDEA, Visual Studio |
+| **Developer Tools** | Git, GitHub, VS Code, Figma, Visual Studio |
 | **Concepts** | Object-Oriented Programming (OOP), Data Structures, Method Overloading, System Architecture |
 
 ---
