@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary ##
+## 👨‍💻 Professional Summary 
 
 BSIT student and passionate vibe coder who loves bringing ideas to life through software and design. Strong foundation in Object-Oriented Programming (OOP), web concepts, and multi-language development across Java, JavaScript, C#, and Python. Skilled in using Figma for UI/UX prototyping, focusing on clean interface design, efficient data handling, and shipping functional applications.
 ---
