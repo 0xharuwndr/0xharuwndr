@@ -1,13 +1,12 @@
 **BSIT Student & Aspiring Software Developer**
 
-[GitHub](https://github.0xharuwndr) • [Portfolio](https://github.com/0xharuwndr)
+[GitHub](https://github.com/0xharuwndr) • [Portfolio](https://github.com/0xharuwndr)
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Results-driven developer with a strong foundation in **Software Engineering**, **Object-Oriented Design (OOD)**, and multi-language development. Experienced in building structured console applications, inventory systems, and multi-platform implementations using **Java**, **C#**, and **Python**. Highly focused on clean architecture, efficient data handling, and writing maintainable code.
-
+BSIT student and passionate vibe coder who loves bringing ideas to life through software. Strong foundation in **Object-Oriented Programming (OOP)**, **web concepts**, and **multi-language development across Java, JavaScript, C#, and Python**. Focused on shipping clean code, designing intuitive UI layouts, and building functional applications from scratch.
 ---
 
 ## 🛠 Tech Stack & Core Competencies
