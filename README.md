@@ -1,4 +1,4 @@
-## Software Development Student | BS Information Technology
+## BS Information Technology Student
 
 [GitHub](https://github.0xharuwndr) • [Portfolio](https://github.com/0xharuwndr)
 
