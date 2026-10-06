@@ -1,4 +1,4 @@
-## BS Information Technology Student
+## 2nd Year BS Information Technology Student
 
 [GitHub](https://github.0xharuwndr) • [Portfolio](https://github.com/0xharuwndr)
 
